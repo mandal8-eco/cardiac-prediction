@@ -29,6 +29,7 @@ A high recall is crucial in medical diagnosis because it minimizes false negativ
 - Pandas
 - NumPy
 - Scikit-learn
+- GridSearchCV
 
 ## Author
 
