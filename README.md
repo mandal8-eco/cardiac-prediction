@@ -5,7 +5,7 @@ A Python-based ML project for Cardiac Disease prediction using classification al
 
 ## Overview
 
-This project develops a machine learning model to predict cardiac disease using patient clinical data. Data preprocessing and feature scaling were performed before training the models.
+This project develops a machine learning model to predict cardiac disease using patient clinical data in python with the help of AI. Data preprocessing and feature scaling were performed before training the models.
 
 ## Models Evaluated
 
